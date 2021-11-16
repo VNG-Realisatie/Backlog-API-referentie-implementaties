@@ -17,5 +17,5 @@ Nog concept:
 *	Maken van de RI bij de Product Aanvraag API’s
 
 
-Productowner: @LiaDeZoete - VNG Realisatie
+Productowner: Lia de Zoete - VNG Realisatie
 
